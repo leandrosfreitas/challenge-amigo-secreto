@@ -11,10 +11,10 @@ Este é um projeto simples e divertido de **Amigo Secreto**, desenvolvido com fo
 
 ## 🛠 Tecnologias utilizadas
 
-- JavaScript (Vanilla)
+- JavaScript
 - HTML5
-- CSS3 (com variáveis e responsividade)
-- Google Fonts (Inter e Merriweather)
+- CSS3
+- Google Fonts
 
 ## 📸 Interface
 
