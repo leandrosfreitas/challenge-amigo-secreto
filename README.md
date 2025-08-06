@@ -47,10 +47,6 @@ Este projeto foi criado com os seguintes propósitos:
 - Trabalhar com eventos e manipulação do DOM
 - Aprender como organizar HTML, CSS e JS em um projeto web simples
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
 
 > Projeto criado para fins de prática e aprendizado.
