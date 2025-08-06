@@ -16,12 +16,6 @@ Este é um projeto simples e divertido de **Amigo Secreto**, desenvolvido com fo
 - CSS3
 - Google Fonts
 
-## 📸 Interface
-
-> Página principal com entrada de nomes e botão de sorteio:
-
-![Imagem representativa de amigo secreto](assets/amigo-secreto.png)
-
 ## 📂 Estrutura de arquivos
 
 ```
